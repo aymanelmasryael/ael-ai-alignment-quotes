@@ -117,7 +117,7 @@ AI-ALIGNMENT-QUOTES/
 ├── js/
 │   └── script.js       # Full JavaScript engine (pools, generation, UI, export)
 ├── README.md           # This file
-├── screenshot.png      # Project preview
+├── screenshot.svg      # Project preview
 └── .gitignore
 ```
 
