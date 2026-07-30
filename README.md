@@ -5,6 +5,15 @@
 > All quotes include attribution: *© Ayman Elmasry*  
 > **Display mode toggle:** Bilingual (EN/AR together), English only, or Arabic only.
 
+## 📚 Learning Metadata
+
+| | |
+|---|---|
+| **Learning Level** | All levels (reference resource) |
+| **Estimated Duration** | Reference |
+| **Prerequisites** | None |
+| **Learning Outcomes** | Explore 10,000 bilingual AI alignment quotes, understand key concepts in AI safety and ethics |
+
 ---
 
 ---
