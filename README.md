@@ -214,6 +214,14 @@ Or simply open `index.html` in any modern browser — no server required.
 
 ---
 
+## 🔗 Related Resources
+
+- [AEL Learning Catalog](https://github.com/aymanelmasryael/ael-learning-catalog) — Central entry point to all AEL courses
+- [Engineering Academy](https://github.com/aymanelmasryael/ael-engineering-academy) — Complete LLM engineering platform from zero to production
+- [LLM Reference](https://github.com/aymanelmasryael/ael-llm-engineering-reference-2026) — 103 LLM engineering concepts across 10 categories
+
+---
+
 ## Credits
 
 **Created by:** Ayman Elmasry — AEL Digital Studio  
